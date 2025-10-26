@@ -11,6 +11,6 @@ public class TaskItem {
         set; }
 }
 
-// not sure how to make the API part [cite: 14]
+// not sure how to make the API part
 // GET /api/tasks
 // POST /api/tasks
